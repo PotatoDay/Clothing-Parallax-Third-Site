@@ -1,0 +1,22 @@
+{
+  "name": "clothing_parallax_third-site",
+  "version": "1.0.0",
+  "description": "Clothing store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PotatoDay/Clothing-Parallax-Third-Site.git"
+  },
+  "author": "Wiebe Vandevelde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PotatoDay/Clothing-Parallax-Third-Site/issues"
+  },
+  "homepage": "https://github.com/PotatoDay/Clothing-Parallax-Third-Site#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
