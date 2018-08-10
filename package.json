@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PotatoDay/Clothing-Parallax-Third-Site#readme",
   "dependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.9.3",
+    "sass": "^1.10.4"
   }
 }
